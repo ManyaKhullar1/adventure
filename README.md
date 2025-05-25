@@ -1,4 +1,4 @@
-# FlappyToast
+# Adventure
 
 Flappy Toast is our playful remake of the classic Flappy Bird but with a interesting twist! In this version, you guide a brave slice of toast as it flaps its way through a long list of knives. With each level you pass, the challenge increases: the knives get trickier, the pace picks up, and your toast gets progressively more toasted!
 
